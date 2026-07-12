@@ -1,6 +1,6 @@
 # Project-2 - Startup Investments
 ## 1. Problem Statement ##
-When managing a finite $10M seed-stage fund, relying on gut instinct often leads to capital stagnation in portfolio companies that burn through initial cash without securing follow-on rounds. This project leverages historical venture capital data to engineer operational velocity metrics and uncover the financial, sector, and geographic markers that predict long-term startup viability and successful Series A graduation.
+When managing a finite $10M seed-stage fund, relying on gut instinct often leads to capital stagnation in portfolio companies that burn through initial cash without securing follow-on rounds. This project leverages historical venture capital data to engineer operational velocity metrics and uncover the financial, sector, and geographic markers that predict long-term startup viability and successful Rounds A graduation.
 
 ---
 
@@ -9,7 +9,7 @@ This project analyzes historical startup investment trajectories to transition a
 
 The analysis yielded several critical, counterintuitive findings. First, an ultra-rapid jump to initial seed funding is a statistical trap; failed startups historically secure checks faster than their long-term surviving peers, indicating that premature capitalization often precedes poor structural alignment. Second, there is a clear financial "sweet spot" for seed rounds where standard and mid-tier checks (500k–5M dollars) optimize a startup's runway-to-graduation ratio far better than hyper-fractionalized micro-checks. Finally, market congestion frequently masks low realization ceilings, as some of the most heavily crowded industry sectors suffer from dismal acquisition or IPO exit rates.
 
-Based on these insights, it is recommended that the fund avoid chasing immediate post-incorporation rounds and instead enforce a "maturity mask," evaluating teams that have bootstrapped for roughly 1.3 to 1.5 years. The finite $10M capital should be concentrated into 7 to 8 high-conviction checks within the identified capitalization sweet spot rather than being over-diversified across dozens of micro-seed tranches. Furthermore, capital allocation should prioritize sectors with proven exit momentum and actively hedge portfolio risk across international ecosystems like USA and Germany, which demonstrate superior structural advancement rates.
+Based on these insights, it is recommended that the fund avoid chasing immediate post-incorporation rounds and instead enforce a "maturity mask", evaluating teams that have bootstrapped for roughly 1.3 to 1.5 years. The finite 10M dollars capital should be concentrated into 7 to 8 high-conviction checks within the identified capitalization sweet spot rather than being over-diversified across dozens of micro-seed tranches. Furthermore, capital allocation should prioritize sectors with proven exit momentum and actively hedge portfolio risk across international ecosystems like United States and Germany, which demonstrate superior structural advancement rates.
 
 ---
 
