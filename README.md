@@ -73,9 +73,12 @@ Our data comes directly from historical startup ecosystem ledgers that track glo
 ### 7.1. Funding Velocity Analysis (Boxplot)
 This plot tracks the number of days from a company's founding to its first check, broken out by final market outcomes. It visualizes our core velocity insight: closed companies often raise their first round faster than companies that go on to achieve long-term operations or strategic acquisitions.
 
-### 7.2. Series A Graduation Window (Bar Chart)
-This chart displays the percentage of seed startups that successfully scale to a Series A across distinct check-size categories. It serves as the foundation for our fund sizing model, demonstrating exactly where early capital injections yield the highest graduation rate before hitting diminishing returns.
+![Funding Velocity Boxplot](./Scratch/funding_velocity_boxplot.png)
 
+### 7.2. Rounds A Graduation Window (Bar Chart)
+This chart displays the percentage of seed startups that successfully scale to a Rounds A across distinct check-size categories. It serves as the foundation for our fund sizing model, demonstrating exactly where early capital injections yield the highest graduation rate before hitting diminishing returns.
+
+![Round_A_Advancemet_Rate](./Scratch/Round_A_Advacemet_Rate.png)
 
 ---
 
